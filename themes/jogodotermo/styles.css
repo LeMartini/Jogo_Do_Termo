@@ -1,0 +1,34 @@
+@import url('./main-layout.css');
+@import url('@fontsource/arimo/index.css');    html {
+      --lumo-base-color: #828282;
+      --lumo-shade: hsl(214, 100%, 100%);
+      --lumo-shade-5pct: hsla(214, 100%, 100%, 0.05);
+      --lumo-shade-10pct: hsla(214, 100%, 100%, 0.1);
+      --lumo-shade-20pct: hsla(214, 100%, 100%, 0.2);
+      --lumo-shade-30pct: hsla(214, 100%, 100%, 0.3);
+      --lumo-shade-40pct: hsla(214, 100%, 100%, 0.4);
+      --lumo-shade-50pct: hsla(214, 100%, 100%, 0.5);
+      --lumo-shade-60pct: hsla(214, 100%, 100%, 0.6);
+      --lumo-shade-70pct: hsla(214, 100%, 100%, 0.7);
+      --lumo-shade-80pct: hsla(214, 100%, 100%, 0.8);
+      --lumo-shade-90pct: hsla(214, 100%, 100%, 0.9);
+      --lumo-primary-text-color: hsl(31, 100%, 99%);
+      --lumo-body-text-color: hsla(25, 0%, 99%, 0.94);
+      --lumo-line-height-m: 1.8;
+      --lumo-line-height-s: 1.5;
+      --lumo-line-height-xs: 1.3;
+      --lumo-font-size: 1rem;
+      --lumo-font-size-xxxl: 3rem;
+      --lumo-font-size-xxl: 2.25rem;
+      --lumo-font-size-xl: 1.75rem;
+      --lumo-font-size-l: 1.375rem;
+      --lumo-font-size-m: 1.125rem;
+      --lumo-font-size-s: 1rem;
+      --lumo-font-size-xs: 0.875rem;
+      --lumo-font-size-xxs: 0.8125rem;
+      --lumo-primary-color: hsl(25, 95%, 42%);
+      --lumo-primary-color-50pct: hsla(25, 95%, 42%, 0.5);
+      --lumo-primary-color-10pct: hsla(25, 95%, 42%, 0.1);
+--lumo-font-family: Arimo;
+
+    }
