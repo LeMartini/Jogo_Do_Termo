@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/letic/Downloads/jogo-do-termo (3)/jogo-do-termo/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/letic/Downloads/jogo-do-termo (3)/jogo-do-termo/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/letic/Downloads/jogo-do-termo (3)/jogo-do-termo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\letic\\Downloads\\jogo-do-termo (3)\\jogo-do-termo\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\letic\\Downloads\\jogo-do-termo (3)\\jogo-do-termo\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/letic/Downloads/jogo-do-termo (3)/jogo-do-termo/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/letic/Downloads/jogo-do-termo (3)/jogo-do-termo/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/letic/Downloads/jogo-do-termo (3)/jogo-do-termo/./frontend/generated/jar-resources",
+  "themeName": "jogodotermo",
+  "clientServiceWorkerSource": "C:\\Users\\letic\\Downloads\\jogo-do-termo (3)\\jogo-do-termo\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
